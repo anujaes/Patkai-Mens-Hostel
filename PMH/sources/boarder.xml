@@ -1,0 +1,1395 @@
+  <boarder>
+
+    <boarders>
+      <name>Eshan Abbas</name>
+      <course>Intv M.sc MMBt</course>
+      <roll>BBI-18008</roll>
+      <room>103</room>
+    </boarders>
+    
+    <boarders>
+      <name>Shivam Bhardwaj</name>
+      <course>B.TECH(ME)</course>
+      <roll>MEB-18053</roll>
+      <room>104</room>
+    </boarders>
+
+    <boarders>      
+      <name>AVINASH YADAV</name>
+      <course>INT.MCOM</course>
+      <roll>COI-18024</roll>
+      <room>105</room>
+    </boarders>
+
+    <boarders>
+      <name>SANTANU JHA</name>
+      <course>B.TECH ECE</course>
+      <roll>ECB19048</roll>
+      <room>105</room>
+    </boarders>
+
+    <boarders>
+      <name>Saikat Malla</name>
+      <course>Int Bsc Bed Maths</course>
+      <roll>MSB19004</roll>
+      <room>106</room>
+    </boarders>
+
+    <boarders>
+      <name>BHARGAV MUDOI</name>
+      <course>MCA</course>
+      <roll>CSM1901</roll>
+      <room>106</room>
+    </boarders>
+
+    <boarders>  
+      <name>Gunjan Konwar</name>
+      <course>B.TECH(CIVIL)</course>
+      <roll>CEB-19055</roll>
+      <room>107</room>
+    </boarders>
+
+    <boarders>
+      <name>Chinmoy Das</name>
+      <course>B.Sc B.Ed Chem</course>
+      <roll>PHB19003</roll>
+      <room>107</room>
+    </boarders>
+    
+    <boarders>  
+      <name>MUSTAQUE ANSARI</name>
+      <course>INT. MSC. (CHEM)</course>
+      <roll>CHI- 17013</roll>
+      <room>111</room>
+    </boarders>
+
+    <boarders>
+      <name>SRINJOY DE JOARDAR</name>
+      <course>B.TECH( ME)</course>
+      <roll>MEB- 18040</roll>
+      <room>114</room>
+    </boarders>
+
+    <boarders>      
+      <name>SAMUJJAL GOGOI</name>
+      <course>B.TECH( CIVIL)</course>
+      <roll>CEB-18034</roll>
+      <room>114</room>
+    </boarders>
+
+    <boarders>  
+      <name>Ajay Kumar Chauhan</name>
+      <course>B.TECH(EE)</course>
+      <roll>EEB18033</roll>
+      <room>116</room>
+    </boarders>
+
+    <boarders>  
+      <name>Subham Jha</name>
+      <course>Int Bsc BED( phy)</course>
+      <roll>PHB18011</roll>
+      <room>118</room>
+    </boarders>
+    
+    <boarders>  
+      <name>BIKRAM BARUAH</name>
+      <course>B.TECH(CSE)</course>
+      <roll>CSB- 18006</roll>
+      <room>119</room>
+    </boarders>
+
+    <boarders>
+      <name>Bengia Serso</name>
+      <course>B.TECH(CIVIL)</course>
+      <roll>CIB- 18060</roll>
+      <room>128</room>
+    </boarders>
+
+    <boarders>
+      <name>MANASH PROTIM SAIKIA</name>
+      <course>INT.M.A( ENGLISH)</course>
+      <roll>EGI- 18009</roll>
+      <room>131</room>
+    </boarders>
+
+    <boarders>
+      <name>Sushruta Baishya</name>
+      <course>Int M.Com</course>
+      <roll>COI-19003</roll>
+      <room>132</room>
+    </boarders>
+
+    <boarders>
+      <name>s. Vinay</name>
+      <course>B.TECH( ME)</course>
+      <roll>MEB--18056</roll>
+      <room>134</room>
+    </boarders>
+
+    <boarders>
+      <name>M.kishore kumar</name>
+      <course>B.TECH(civil)</course>
+      <roll>CEB18043</roll>
+      <room>134</room>
+    </boarders>
+
+    <boarders>
+      <name>HILLUL GOGOI</name>
+      <course>B.TECH(ME)</course>
+      <roll>MEB-18007</roll>
+      <room>135</room>
+    </boarders>
+
+    <boarders>
+      <name>BIKI HAZARIKA</name>
+      <course>B.TECH(CIVIL))</course>
+      <roll>CIB-17075</roll>
+      <room>137</room>
+    </boarders>
+
+    <boarders>
+      <name>SUBU BOBING</name>
+      <course>B.TECH(CIVIL)</course>
+      <roll>CEB-18061</roll>
+      <room>137</room>
+    </boarders>
+
+    <boarders>
+      <name>Nanglhraubak Nongbak</name>
+      <course>Btech CSE</course>
+      <roll>CEB19045</roll>
+      <room>138</room>
+    </boarders>
+
+    <boarders>
+      <name>Abhilash Das</name>
+      <course>Int MSc MAths</course>
+      <roll>MSI19005</roll>
+      <room>138</room>
+    </boarders>
+
+    <boarders>
+      <name>Vicky Kumar Deka</name>
+      <course>BTEch CSE</course>
+      <roll>CSB19026</roll>
+      <room>139</room>
+    </boarders>
+
+    <boarders>
+      <name>Priyanshu Jha</name>
+      <course>B.TECH(ECE)</course>
+      <roll>ECE 19059</roll>
+      <room>139</room>
+    </boarders>
+
+    <boarders>
+      <name>NEHAL PAUL</name>
+      <course>INT.MCOM</course>
+      <roll>MCI- 17018</roll>
+      <room>143</room>
+    </boarders>
+
+    <boarders>
+      <name>DEBARUN CHANDA</name>
+      <course>INT.MCOM</course>
+      <roll>MCI-17019</roll>
+      <room>143</room>
+    </boarders>
+
+    <boarders>
+      <name>Siddhant saha</name>
+      <course>int msc mbbt</course>
+      <roll>MBI-19006</roll>
+      <room>144</room>
+    </boarders>
+
+    <boarders>
+      <name>PRITAM ROY</name>
+      <course>INT.MCOM</course>
+      <roll>MCI-17033</roll>
+      <room>145</room>
+    </boarders>
+
+    <boarders>
+      <name>SIDDHARTH ROY</name>
+      <course>INT.MCOM</course>
+      <roll>MCI-17032</roll>
+      <room>145</room>
+    </boarders>
+
+    <boarders>
+      <name>Sachin Kumar Singh</name>
+      <course>B.TECH(ME)</course>
+      <roll>MEB-18054</roll>
+      <room>148</room>
+    </boarders>
+
+    <boarders>
+      <name>MAROJU HARSHA VARDHAN</name>
+      <course>B.TECH( ME)</course>
+      <roll>MEB-18051</roll>
+      <room>149</room>
+    </boarders>
+
+
+    <boarders>
+
+      <name>NISHANKA KALITA</name>
+      <course>INT. MSC (CHEM)</course>
+      <roll>CHI- 17009</roll>
+      <room>152</room>
+    </boarders>
+    <boarders>
+
+      <name>NAWAL KISHOR HAZARIKA</name>
+      <course>INT.MSC (MATH)</course>
+      <roll>MSI-18008</roll>
+      <room>152</room>
+    </boarders>
+    <boarders>
+
+      <name>DIGVIJOY DINESH GOGOI</name>
+      <course>INT MSC (MBBT)</course>
+      <roll>BBI- 17006</roll>
+      <room>153</room>
+    </boarders>
+    <boarders>
+
+      <name>SHIRSA MAZUMDER</name>
+      <course>INT MSC(CHEM)</course>
+      <roll>CSI-17007</roll>
+      <room>153</room>
+    </boarders>
+    <boarders>
+
+      <name>AADIPTA GHOSH</name>
+      <course>B.TECH( ME)</course>
+      <roll>MEB-18041</roll>
+      <room>154</room>
+    </boarders>
+    <boarders>
+
+      <name>DANIEL BASUMATARY</name>
+      <course>B.TECH( ME)</course>
+      <roll>MEB-18052</roll>
+      <room>154</room>
+    </boarders>
+    <boarders>
+
+      <name>Akash Agarwalla</name>
+      <course>B.Tech FET</course>
+      <roll>FEB-19007</roll>
+      <room>155</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Nitish Agarwalla</name>
+      <course>B.Tech civil</course>
+      <roll>CEB-19019</roll>
+      <room>155</room>
+    </boarders>
+
+    <boarders>
+
+      <name>ARNAB NANDI</name>
+      <course>INT(M.COM)</course>
+      <roll>MCI-17028</roll>
+      <room>158</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Md Noman</name>
+      <course>ECE</course>
+      <roll>ECB-19053</roll>
+      <room>162</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Gaurav Kumar</name>
+      <course>B.TECH(ECE)</course>
+      <roll>ECB-19058</roll>
+      <room>166</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Hrichikesh Sarmah</name>
+      <course>IntM.Com</course>
+      <roll>COI19032</roll>
+      <room>168</room>
+    </boarders>
+    <boarders>
+
+      <name>MANASHJYOTIN BORUAH</name>
+      <course>INT.MSC</course>
+      <roll>MSI- 18002</roll>
+      <room>169</room>
+    </boarders>
+    <boarders>
+
+      <name>KOUSTUV MONI BORA</name>
+      <course>INT. M.SC( CHEM)</course>
+      <roll>CHI-18005</roll>
+      <room>169</room>
+    </boarders>
+    <boarders>
+
+      <name>Pradyut Acharjee</name>
+      <course>Int MSc Chem</course>
+      <roll>CHI18009</roll>
+      <room>170</room>
+    </boarders>
+
+    <boarders>
+      <name>Arif Faisal Ahmed</name>
+      <course>int. msc. Chem</course>
+      <roll>CHI18008</roll>
+      <room>170</room>
+    </boarders>
+
+    <boarders>
+
+      <name>BIDIT HATI SAIKIA</name>
+      <course>INT. M.SC(MATHS))</course>
+      <roll>MSI 17013</roll>
+      <room>173</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Subhra Sarkar</name>
+      <course>Int Mcom</course>
+      <roll>COI18021</roll>
+      <room>174</room>
+    </boarders>
+
+    <boarders>
+
+      <name>BIPLAB SATNRMI</name>
+      <course>Int M.Sc Chem</course>
+      <roll>CHB19005</roll>
+      <room>177</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Gauranga Kumar Baishya</name>
+      <course>Int M.Sc Maths</course>
+      <roll>MSI19010</roll>
+      <room>177</room>
+    </boarders>
+    <boarders>
+
+      <name>Banturaj Hojai</name>
+      <course>Btech CE</course>
+      <roll>CEB18049</roll>
+      <room>178</room>
+    </boarders>
+    <boarders>
+
+      <name>Roshan Pradhan</name>
+      <course>BTECH CE</course>
+      <roll>CEB18015</roll>
+      <room>178</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Debanga saikia</name>
+      <course>CSE Btech</course>
+      <roll>CSB19009</roll>
+      <room>180</room>
+    </boarders>
+    <boarders>
+
+      <name>Prashent Kushwaha</name>
+      <course>MCA</course>
+      <roll>CSM19019</roll>
+      <room>180</room>
+    </boarders>
+    <boarders>
+
+      <name>Rajdeep Endaw</name>
+      <course>Int Mcom</course>
+      <roll>COI19002</roll>
+      <room>181</room>
+    </boarders>
+    <boarders>
+
+      <name>Jaivir singh yadav</name>
+      <course>B.TECH(EE)</course>
+      <roll>EEB-19033</roll>
+      <room>181</room>
+    </boarders>
+
+    <boarders>
+
+      <name>PAVAN SAI</name>
+      <course>B.Tech ECE</course>
+      <roll>ECB18060</roll>
+      <room>209</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Pranoshchal saikia</name>
+      <course>btech CSE</course>
+      <roll>CSB19007</roll>
+      <room>213</room>
+    </boarders>
+    <boarders>
+
+      <name>Niyor pathak</name>
+      <course>INT BA/MA</course>
+      <roll>EGI-19011</roll>
+      <room>213</room>
+    </boarders>
+
+    <boarders>
+
+      <name>ROMIN GOGOI</name>
+      <course>INT.MSC(CHEM)</course>
+      <roll>CHI-18007</roll>
+      <room>216</room>
+    </boarders>
+    <boarders>
+
+      <name>ANKIT KUMAR MISHRA</name>
+      <course>B.TECH(CSE)</course>
+      <roll>CSB-18046</roll>
+      <room>216</room>
+    </boarders>
+
+    <boarders>
+
+      <name>PRITOM KUMAR NATH</name>
+      <course>INT MSC (PHY)</course>
+      <roll>PHI-18007</roll>
+      <room>218</room>
+    </boarders>
+    <boarders>
+
+      <name>Akash Krishan Hazarika</name>
+      <course>INT .MA ENGLIH</course>
+      <roll>EGI-18015</roll>
+      <room>219</room>
+    </boarders>
+    <boarders>
+
+      <name>GILBARTSON SONOWAL</name>
+      <course>INT.(MCOM)</course>
+      <roll>MCI-17031</roll>
+      <room>219</room>
+    </boarders>
+
+    <boarders>
+
+      <name>RITUKALPA SAIKIA</name>
+      <course>INT.MSC.(CHEM)</course>
+      <roll>CHI- 17010</roll>
+      <room>220</room>
+    </boarders>
+
+    <boarders>
+
+      <name>CHINMOY BARUAH</name>
+      <course>B.TECH( ME)</course>
+      <roll>MEB-18030</roll>
+      <room>224</room>
+    </boarders>
+
+    <boarders>
+
+      <name>MRIDUL SARMAH</name>
+      <course>INT.MSC (MATH)</course>
+      <roll>MSI- 18006</roll>
+      <room>225</room>
+    </boarders>
+    <boarders>
+
+      <name>KAMAL DAS</name>
+      <course>B.TECH-ECE)</course>
+      <roll>ECB-18022</roll>
+      <room>225</room>
+    </boarders>
+
+    <boarders>
+
+      <name>KONNELA KEERTHAN REDDY</name>
+      <course>B.TECH-ECE)</course>
+      <roll>ECE-18062</roll>
+      <room>229</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Ashit Singh</name>
+      <course>Btech ECE</course>
+      <roll>ECB18061</roll>
+      <room>233</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Savara Kurma Rao</name>
+      <course>B.TECH(FOOD)</course>
+      <roll>FEB-18026</roll>
+      <room>235</room>
+    </boarders>
+<!--  </boarder>-->
+
+    <boarders>
+
+      <name>AVIBHAWAN HAZARIKA</name>
+      <course>INT.M.COM</course>
+      <roll>COI-18002</roll>
+      <room>237</room>
+    </boarders>
+    <boarders>
+
+      <name>Udit Ranjan Nath</name>
+      <course>Ingt Msc Phy</course>
+      <roll>PHI19017</roll>
+      <room>237</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Sonu Mittal</name>
+      <course>MCA</course>
+      <roll>CSM19021</roll>
+      <room>241</room>
+    </boarders>
+    <boarders>
+
+      <name>Rajeev Kumar</name>
+      <course>B.tech(Civil)</course>
+      <roll>CEB-19059</roll>
+      <room>241</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Gaurab Jyoti buragohain</name>
+      <course>CSE Btech</course>
+      <roll>CSB19033</roll>
+      <room>243</room>
+    </boarders>
+    <boarders>
+
+      <name>HARSH VARRDHAN</name>
+      <course>B.TECH( ECE)</course>
+      <roll>ECB-18057</roll>
+      <room>244</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Prince Swargiary</name>
+      <course>CSE Btech</course>
+      <roll>CSB19053</roll>
+      <room>246</room>
+    </boarders>
+    <boarders>
+
+      <name>Anuranan Chetia</name>
+      <course>int. M.com</course>
+      <roll>COI19013</roll>
+      <room>246</room>
+    </boarders>
+    <boarders>
+
+      <name>Abhigyan Bhagawati</name>
+      <course>EFL</course>
+      <roll>EGI18024</roll>
+      <room>248</room>
+    </boarders>
+    <boarders>
+
+      <name>Mrinal Jyoti Powdel</name>
+      <course>Int M.Sc Phy</course>
+      <roll>PHI18021</roll>
+      <room>248</room>
+    </boarders>
+    <boarders>
+
+      <name>HEMANTA KUMAR SAIKIA</name>
+      <course>INT.M.SC. PHYSICS</course>
+      <roll>PHI-18017</roll>
+      <room>249</room>
+    </boarders>
+    <boarders>
+
+      <name>ARNAB JAN BAISHYA</name>
+      <course>Int MSc Physics</course>
+      <roll>PHI18016</roll>
+      <room>249</room>
+    </boarders>
+    <boarders>
+
+      <name>Debashish Dutta</name>
+      <course>Int M.Sc Phy</course>
+      <roll>PHI18020</roll>
+      <room>250</room>
+    </boarders>
+    <boarders>
+
+      <name>Souvik Das</name>
+      <course>Int MSc Physics</course>
+      <roll>PHM18027</roll>
+      <room>250</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Abhishek Tamuli</name>
+      <course>civil</course>
+      <roll>CEB19014</roll>
+      <room>252</room>
+    </boarders>
+    <boarders>
+
+      <name>KANKAN SARKAR</name>
+      <course>M.TECH</course>
+      <roll>CSI18019</roll>
+      <room>252</room>
+    </boarders>
+    <boarders>
+
+      <name>padala kiran kumar</name>
+      <course>B.TECH(ME)</course>
+      <roll>MEB18055</roll>
+      <room>253</room>
+    </boarders>
+    <boarders>
+
+      <name>Shalom Kristi</name>
+      <course>B.Tech(CIV)</course>
+      <roll>CEB-18055</roll>
+      <room>253</room>
+    </boarders>
+
+    <boarders>
+
+      <name>PARARDHA SARMAH</name>
+      <course>B.TECH( CSE)</course>
+      <roll>CSB-18007</roll>
+      <room>255</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Ankit Kumar</name>
+      <course>B.TECH FET</course>
+      <roll>FEB18031</roll>
+      <room>257</room>
+    </boarders>
+
+    <boarders>
+
+      <name>HRISHIKESH BHARALI</name>
+      <course>INT M.Sc(MBBT)</course>
+      <roll>BBI- 17014</roll>
+      <room>259</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Sandipan Mukherjee</name>
+      <course>B.Tech FET</course>
+      <roll>FEB18028</roll>
+      <room>261</room>
+    </boarders>
+    <boarders>
+
+      <name>HOMEN BANIA</name>
+      <course>B.Tech(Civ)</course>
+      <roll>CEB-18033</roll>
+      <room>262</room>
+    </boarders>
+<!--  </boarder>-->
+
+
+    <boarders>
+
+      <name>PARTHA PRATIM SARMA</name>
+      <course>B.TECH( ECE)</course>
+      <roll>ECB- 18015</roll>
+      <room>264</room>
+    </boarders>
+
+    <boarders>
+
+      <name>SURAJIT RABHA</name>
+      <course>INT.M.SC( PHY)</course>
+      <roll>PHI-18019</roll>
+      <room>267</room>
+    </boarders>
+    <boarders>
+
+      <name>KRISHANU DEV SARMA</name>
+      <course>B.TECH(ECE)</course>
+      <roll>ECB- 18006</roll>
+      <room>267</room>
+    </boarders>
+
+    <boarders>
+
+      <name>SUBHRA JYOTI GOGOI</name>
+      <course>INT.M.A( ENGLISH)</course>
+      <roll>EGI-18007</roll>
+      <room>274</room>
+    </boarders>
+    <boarders>
+
+      <name>HRISHIKESH BORDOLOI</name>
+      <course>INT. BA/B.ED</course>
+      <roll>EGB-18012</roll>
+      <room>274</room>
+    </boarders>
+    <boarders>
+
+      <name>DIBYAJYOTI DAS</name>
+      <course>B.TECH(CIVIL)</course>
+      <roll>CEB-18009</roll>
+      <room>275</room>
+    </boarders>
+
+    <boarders>
+
+      <name>KAUSHIK FAMBO</name>
+      <course>INT.MSC(CHEM)</course>
+      <roll>CHI-17017</roll>
+      <room>279</room>
+    </boarders>
+    <boarders>
+
+      <name>ANIL KUMAR</name>
+      <course>B.TECH( CIVIL)</course>
+      <roll>CEB18041</roll>
+      <room>280</room>
+    </boarders>
+<!--  </boarder>-->
+
+    <boarders>
+
+      <name>RAJ CHAKRABORTY</name>
+      <course>INT.MCOM</course>
+      <roll>MCI17011</roll>
+      <room>281</room>
+    </boarders>
+    <boarders>
+
+      <name>PADMANAAV GAUTAM</name>
+      <course>INT(M.COM)</course>
+      <roll>MCI-17029</roll>
+      <room>281</room>
+    </boarders>
+
+    <boarders>
+
+      <name>SANDEEP SHAH</name>
+      <course>B.TECH(ME)</course>
+      <roll>MEB-18020</roll>
+      <room>302</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Rajdeep Dey</name>
+      <course>B.TECH( CSE)</course>
+      <roll>CSB19014</roll>
+      <room>303</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Sourjya Mukherjee</name>
+      <course>B.TECH(ECE)</course>
+      <roll>ECB-19002</roll>
+      <room>304</room>
+    </boarders>
+    <boarders>
+
+      <name>Banajit Rajbongshi</name>
+      <course>Int BSc BeD Phy</course>
+      <roll>PHB19001</roll>
+      <room>305</room>
+    </boarders>
+    <boarders>
+
+      <name>Saurab Debnath</name>
+      <course>B.TECH(EE)</course>
+      <roll>EEB19013</roll>
+      <room>305</room>
+    </boarders>
+
+    <boarders>
+
+      <name>PAVITRA JAIN</name>
+      <course>B.TECH( CSE)</course>
+      <roll>CSB-18049</roll>
+      <room>307</room>
+    </boarders>
+    <boarders>
+
+      <name>Mohar Lal Goala</name>
+      <course>B.Tech Civil</course>
+      <roll>CEB18008</roll>
+      <room>307</room>
+    </boarders>
+    <boarders>
+
+      <name>DHEERAJ MALVIYA</name>
+      <course>B.TECH(CIVIL)</course>
+      <roll>CEB-18044</roll>
+      <room>308</room>
+    </boarders>
+    <boarders>
+
+      <name>Vikrant Pratap Singh</name>
+      <course>b.tech mechanical</course>
+      <roll>MEB19050</roll>
+      <room>308</room>
+    </boarders>
+    <boarders>
+
+      <name>MANAS PRATIM DAS</name>
+      <course>B.TECH( CSE)</course>
+      <roll>CSB-18015</roll>
+      <room>309</room>
+    </boarders>
+    <boarders>
+
+      <name>Madhurjya Das</name>
+      <course>MCA CSE</course>
+      <roll>CSM19037</roll>
+      <room>309</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Surajit Das</name>
+      <course>Int Mcom</course>
+      <roll>COI19016</roll>
+      <room>310</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Lakhyajit Boruah</name>
+      <course>Int. M.Sc</course>
+      <roll>MBI18012</roll>
+      <room>313</room>
+    </boarders>
+
+    <boarders>
+
+      <name>PULASTYA ROY</name>
+      <course>B.TECH(ME)</course>
+      <roll>MEB- 18039</roll>
+      <room>314</room>
+    </boarders>
+    <boarders>
+
+      <name>MOUSUM RAJ SONOWAL</name>
+      <course>B.TECH( ME)</course>
+      <roll>MEB- 18022</roll>
+      <room>314</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Bishal Baruah</name>
+      <course>Int Msc chem</course>
+      <roll>CHI-19001</roll>
+      <room>315</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Nikhil Kumar</name>
+      <course>B.Tech( ECE)</course>
+      <roll>ECB18029</roll>
+      <room>316</room>
+    </boarders>
+    <boarders>
+
+      <name>Likhak Bharali</name>
+      <course>EFL</course>
+      <roll>EGL19026</roll>
+      <room>317</room>
+    </boarders>
+    <boarders>
+
+      <name>Abinash sarma</name>
+      <course>Btech Civil</course>
+      <roll>CEB19005</roll>
+      <room>317</room>
+    </boarders>
+    <boarders>
+
+      <name>Biswanayan borah</name>
+      <course>Int.Bsc.Bed( Maths)</course>
+      <roll>MSB-18005</roll>
+      <room>318</room>
+    </boarders>
+    <boarders>
+
+      <name>Debanga Bharali</name>
+      <course>Btech Cse</course>
+      <roll>CSB19027</roll>
+      <room>318</room>
+    </boarders>
+
+    <boarders>
+
+      <name>BINAY SHARMA</name>
+      <course>B,.TECH(CSE)</course>
+      <roll>CSB-18063</roll>
+      <room>320</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Nikhil Kumar Rai</name>
+      <course>MCA</course>
+      <roll>CSM19025</roll>
+      <room>321</room>
+    </boarders>
+    <boarders>
+
+      <name>Amritanshu Ranjan</name>
+      <course>B.TECH(EE)</course>
+      <roll>EEB19035</roll>
+      <room>321</room>
+    </boarders>
+    <boarders>
+
+      <name>Vivek Singh</name>
+      <course>b.tech mechanical</course>
+      <roll>MEB19030</roll>
+      <room>322</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Ankit Sharma</name>
+      <course>B.TECH CSE</course>
+      <roll>CSB19052</roll>
+      <room>323</room>
+    </boarders>
+    <boarders>
+
+      <name>Anubhav Kar</name>
+      <course>Int MSc Physics</course>
+      <roll>PHi19003</roll>
+      <room>323</room>
+    </boarders>
+    <boarders>
+
+      <name>Ratul das</name>
+      <course>Btech civil</course>
+      <roll>CEB18035</roll>
+      <room>324</room>
+    </boarders>
+    <boarders>
+
+      <name>Rituraj Bordoloi</name>
+      <course>Btech EE</course>
+      <roll>EEB19003</roll>
+      <room>324</room>
+    </boarders>
+    <boarders>
+
+      <name>MANASH SAIKIA</name>
+      <course>B.TECH( CSE)</course>
+      <roll>CSB-18020</roll>
+      <room>325</room>
+    </boarders>
+    <boarders>
+
+      <name>MOLOY WRIT SAIKIA</name>
+      <course>B.TECH(CSE)</course>
+      <roll>CSB-18041</roll>
+      <room>325</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Adrash pandey</name>
+      <course>B.Tech Civil</course>
+      <roll>CEB-18056</roll>
+      <room>326</room>
+    </boarders>
+
+    <boarders>
+
+      <name>HIROKJYOTI DUTTA</name>
+      <course>B.TECH(CSE)</course>
+      <roll>CSB- 18018</roll>
+      <room>333</room>
+    </boarders>
+    <boarders>
+
+      <name>HARSH SHUKLA</name>
+      <course>B.TECH(CSE)</course>
+      <roll>CSB-18008</roll>
+      <room>333</room>
+    </boarders>
+
+    <boarders>
+
+      <name>AKHIL MISHRA</name>
+      <course>B.TECH( CSE)</course>
+      <roll>CSB-18050</roll>
+      <room>335</room>
+    </boarders>
+    <boarders>
+
+      <name>ANKUSH KUMAR</name>
+      <course>B.TECH (CSE)</course>
+      <roll>CSB-18047</roll>
+      <room>335</room>
+    </boarders>
+    <boarders>
+
+      <name>Juman Sarma</name>
+      <course>Int Msc physics</course>
+      <roll>PHI19009</roll>
+      <room>337</room>
+    </boarders>
+
+    <boarders>
+
+      <name>Pallav Jyoti Baruah</name>
+      <course>Btech ME</course>
+      <roll>MEB19033</roll>
+      <room>337</room>
+    </boarders>
+    <boarders>
+
+      <name>NIHARUNJAN BARMAN</name>
+      <course>Int BSc. BeD Phy</course>
+      <roll>PHB19004</roll>
+      <room>338</room>
+    </boarders>
+    <boarders>
+
+      <name>Abhay kumar</name>
+      <course>B.TECH(ME)</course>
+      <roll>MEB-19058</roll>
+      <room>338</room>
+    </boarders>
+    <boarders>
+
+      <name>Jyotish Prasad Lahe</name>
+      <course>Btech ME</course>
+      <roll>MEB19036</roll>
+      <room>339</room>
+    </boarders>
+    <boarders>
+
+      <name>Reco das</name>
+      <course>MCA</course>
+      <roll>CSM19007</roll>
+      <room>339</room>
+    </boarders>
+    <boarders>
+
+      <name>Mohbin abdulla</name>
+      <course>Betch EE</course>
+      <roll>EEB-19002</roll>
+      <room>340</room>
+    </boarders>
+    <boarders>
+
+      <name>Krishna Kashyap</name>
+      <course>B.Tech Civil</course>
+      <roll>CEB19003</roll>
+      <room>340</room>
+    </boarders>
+    <boarders>
+
+      <name>Rohit B Nikhre</name>
+      <course>MCA</course>
+      <roll>CSM19012</roll>
+      <room>343</room>
+    </boarders>
+
+    <boarders>
+
+      <name>AKASH KUMAR</name>
+      <course>B.TECH( ECE)</course>
+      <roll>ECB-18056</roll>
+      <room>344</room>
+    </boarders>
+    <boarders>
+
+      <name>Karan Kumar Das</name>
+      <course>Int.Msc Phy</course>
+      <roll>PHI19022</roll>
+      <room>345</room>
+    </boarders>
+    <boarders>
+
+      <name>Gulshan Kumar</name>
+      <course>B.TECH(ECE)</course>
+      <roll>ECB-19057</roll>
+      <room>345</room>
+    </boarders>
+
+    <boarders>
+
+      <name>BHARGAB BORUAH</name>
+      <course>B.TECH(ME)</course>
+      <roll>MEB-18004</roll>
+      <room>346</room>
+    </boarders>
+    <boarders>
+
+      <name>Diptaangshuman Das</name>
+      <course>MCA</course>
+      <roll>CSM19022</roll>
+      <room>348</room>
+    </boarders>
+    <boarders>
+
+      <name>Nishant Deka</name>
+      <course>B.Tech ECE</course>
+      <roll>ECB19030</roll>
+      <room>348</room>
+    </boarders>
+    <boarders>
+
+      <name>MAHARSHI SARMA</name>
+      <course>Int M.Sc Phy</course>
+      <roll>PHI19005</roll>
+      <room>349</room>
+    </boarders>
+    <boarders>
+
+      <name>Roopbasant</name>
+      <course>B.Tech CSE</course>
+      <roll>CSB19054</roll>
+      <room>349</room>
+    </boarders>
+    <boarders>
+
+      <name>Rajdeep Kakoty</name>
+      <course>Int M.Sc Chem</course>
+      <roll>CHI18012</roll>
+      <room>350</room>
+    </boarders>
+    <boarders>
+
+      <name>Juganta Rajkhowa</name>
+      <course>Int MSc MAths</course>
+      <roll>MSI18010</roll>
+      <room>350</room>
+    </boarders>
+    <boarders>
+
+      <name>Kunal Nath</name>
+      <course>Int BSc Bed Chem</course>
+      <roll>CHB18008</roll>
+      <room>351</room>
+    </boarders>
+    <boarders>
+
+      <name>Pabitra Brahma</name>
+      <course>Btech Civil</course>
+      <roll>CEB19027</roll>
+      <room>351</room>
+    </boarders>
+    <boarders>
+      <name>JIT PAHADI</name>
+      <course>INT.MCOM</course>
+      <roll>COI-18014</roll>
+      <room>353</room>
+    </boarders>
+    <boarders>
+      <name>Nilutpal Deori</name>
+      <course>Int MCom</course>
+      <roll>COI18015</roll>
+      <room>353</room>
+    </boarders>
+    <boarders>
+      <name>Bikash Jyoti Das</name>
+      <course>Int MSc Maths</course>
+      <roll>MSI17015</roll>
+      <room>354</room>
+    </boarders>
+    <boarders>
+      <name>Runam Gogoi</name>
+      <course>B.Tech(CIVIL)</course>
+      <roll>CEB-19035</roll>
+      <room>354</room>
+    </boarders>
+    <boarders>
+      <name>SAHIL NEGI</name>
+      <course>B.TECH( CIVIL)</course>
+      <roll>CSB-18052</roll>
+      <room>355</room>
+    </boarders>
+    <boarders>
+      <name>Krishanu Das</name>
+      <course>Btech ME</course>
+      <roll>MEB19052</roll>
+      <room>358</room>
+    </boarders>
+    <boarders>
+      <name>Arun Jyoti Sonowal</name>
+      <course>Civil btech</course>
+      <roll>CEB18029</roll>
+      <room>361</room>
+    </boarders>
+    <boarders>
+      <name>Chinmoy Biswas</name>
+      <course>Int BSc Bed maths</course>
+      <roll>MSB19008</roll>
+      <room>362</room>
+    </boarders>
+    <boarders>
+      <name>RAHUL KR. SINGH</name>
+      <course>Int M.Com</course>
+      <roll>COI18009</roll>
+      <room>362</room>
+    </boarders>
+    <boarders>
+      <name>KURANGA NAYAN HAZARIKA</name>
+      <course>INT.BSC( MATH)</course>
+      <roll>MSB-18002</roll>
+      <room>363</room>
+    </boarders>
+    <boarders>
+      <name>RIKIRAJ BAISHYA</name>
+      <course>B. TECH (ME)</course>
+      <roll>MEB-18019</roll>
+      <room>363</room>
+    </boarders>
+    <boarders>
+      <name>SOURISH DAS</name>
+      <course>B. TECH (ECE)</course>
+      <roll>ECB-18013</roll>
+      <room>364</room>
+    </boarders>
+    <boarders>
+      <name>ANKUSH KUMAR</name>
+      <course>B.Tech FET</course>
+      <roll>FEB18027</roll>
+      <room>364</room>
+    </boarders>
+    <boarders>
+      <name>SATYAM</name>
+      <course>B.TECH-ECE)</course>
+      <roll>EEB-18026</roll>
+      <room>368</room>
+    </boarders>
+    <boarders>
+      <name>SHANI DUTTA</name>
+      <course>INT .M.SC(MATHS)</course>
+      <roll>MSM-17003</roll>
+      <room>368</room>
+    </boarders>
+    <boarders>
+      <name>SANDEEP SEDAI</name>
+      <course>INT.M.A( ENGLISH)</course>
+      <roll>EGI- 18013</roll>
+      <room>369</room>
+    </boarders>
+    <boarders>
+      <name>SHUBHAM RAJ</name>
+      <course>B.TECH-CIVIL</course>
+      <roll>CEB-18051</roll>
+      <room>372</room>
+    </boarders>
+    <boarders>
+      <name>Mari Naidu</name>
+      <course>B.Tech Civil</course>
+      <roll>CEB-19008</roll>
+      <room>372</room>
+    </boarders>
+    <boarders>
+      <name>Tushar Dekaraja</name>
+      <course>Btech Mecha</course>
+      <roll>MEB19038</roll>
+      <room>373</room>
+    </boarders>
+    <boarders>
+      <name>Jonak Deep Saharia</name>
+      <course>Btech civil</course>
+      <roll>CEB19031</roll>
+      <room>373</room>
+    </boarders>
+      <boarders>
+          <name>Anuj Kumar Singh</name>
+          <course>MCA</course>
+          <roll>CSM19008</roll>
+          <room>373</room>
+      </boarders>
+    <boarders>
+      <name>SHIDHARTHA SARMA</name>
+      <course>INT.B.A(B.ED)</course>
+      <roll>EGB-18006</roll>
+      <room>374</room>
+    </boarders>
+    <boarders>
+      <name>Aditya Sinha</name>
+      <course>Int MA English</course>
+      <roll>EGI19014</roll>
+      <room>375</room>
+    </boarders>
+    <boarders>
+      <name>Nayanjyoti Boro</name>
+      <course>Life Science</course>
+      <roll>MbI19015</roll>
+      <room>375</room>
+    </boarders>
+    <boarders>
+      <name>PRANKRISHAN HAZARIKA</name>
+      <course>MCA</course>
+      <roll>MSM19022</roll>
+      <room>376</room>
+    </boarders>
+    <boarders>
+      <name>Rahul Hazarika</name>
+      <course>Btech ME</course>
+      <roll>MEB19023</roll>
+      <room>378</room>
+    </boarders>
+    <boarders>
+      <name>Rishav Mittal</name>
+      <course>MCA</course>
+      <roll>CSM19047</roll>
+      <room>378</room>
+    </boarders>
+    <boarders>
+      <name>ANKUR GOHAIN</name>
+      <course>B.TECH(EE)</course>
+      <roll>EEB-18013</roll>
+      <room>379</room>
+    </boarders>
+    <boarders>
+      <name>ANINDYA</name>
+      <course>B.TECH (ECE)</course>
+      <roll>ECB-18052</roll>
+      <room>379</room>
+    </boarders>
+    <boarders>
+      <name>ABDUL MUNYEEM SIDDIQUE</name>
+      <course>B.TECH ( CSE)</course>
+      <roll>CSB-18004</roll>
+      <room>380</room>
+    </boarders>
+    <boarders>
+      <name>SARIT DEY</name>
+      <course>B.TECH( FET)</course>
+      <roll>FEB-18003</roll>
+      <room>381</room>
+    </boarders>
+
+</boarder>
